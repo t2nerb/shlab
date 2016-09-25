@@ -1,1 +1,6 @@
-If you're looking at this, you know what to do. 
+Tsh
+=============
+
+About
+-------------------
+To run: ./tsh.cc
